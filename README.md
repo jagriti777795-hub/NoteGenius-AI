@@ -1,25 +1,25 @@
-# 📚 NoteGenius AI
+# NoteGenius AI
 
 **Your Personal AI Study Assistant**
 
 NoteGenius AI is an AI-powered study assistant that transforms lengthy study notes into clear, concise, and easy-to-understand summaries using Google's Gemini API.
 
-## ✨ Features
+##  Features
 
-- 📝 Summarizes long study notes into simple language.
-- 🤖 Uses Google's Gemini AI for text summarization.
-- 📌 Organizes summaries with headings and bullet points.
-- ⚡ Simple and user-friendly interface.
-- 🔐 Uses environment variables to keep API credentials out of the source code.
+-  Summarizes long study notes into simple language.
+-  Uses Google's Gemini AI for text summarization.
+-  Organizes summaries with headings and bullet points.
+-  Simple and user-friendly interface.
+-  Uses environment variables to keep API credentials out of the source code.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** — Core programming language
 - **Streamlit** — Web application interface
 - **Google Gemini API** — AI-powered summarization
 - **python-dotenv** — Environment variable management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -64,14 +64,14 @@ python -m streamlit run app.py
 
 The application will open in your browser.
 
-## 📖 How to Use
+##  How to Use
 
 1. Open NoteGenius AI.
 2. Paste your study notes into the text area.
 3. Click **Summarize Notes**.
 4. Read the AI-generated summary.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - PDF upload and summarization
 - Download summaries as text files
@@ -79,7 +79,7 @@ The application will open in your browser.
 - Key points and important-question generation
 - Improved user interface
 
-## 👩‍💻 Author
+##  Author
 
 **Jagriti Dubey**
 
@@ -87,4 +87,4 @@ GitHub: [jagriti777795-hub](https://github.com/jagriti777795-hub)
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star!
+ If you find this project useful, consider giving the repository a star!
